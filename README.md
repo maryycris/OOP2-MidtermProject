@@ -1,1 +1,1 @@
-# OOP2-MidtermProject
+# OOP2-EmployeeRoster/MidtermProject
